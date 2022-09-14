@@ -1,0 +1,10 @@
+setup.py
+lipsnet.egg-info/PKG-INFO
+lipsnet.egg-info/SOURCES.txt
+lipsnet.egg-info/dependency_links.txt
+lipsnet.egg-info/not-zip-safe
+lipsnet.egg-info/requires.txt
+lipsnet.egg-info/top_level.txt
+polyopt/__init__.py
+polyopt/polynomials.py
+polyopt/utils.py
